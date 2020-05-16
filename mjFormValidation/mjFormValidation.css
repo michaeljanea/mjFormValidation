@@ -1,0 +1,11 @@
+/****************************************************************
+ *	Class:		mjFormValidation								*
+ *	Use:		real-time validation before submitting forms	*
+ *	Author:		Michael Janea									*
+ *				http://facebook.com/mbjanea						*
+ *				http://michaeljanea.byethost7.com/				*
+ *	Version:	1.0												*
+ ****************************************************************/
+
+.validation {display:none; position:absolute; color:#f00; font-size:11px; right:0; top:0;}
+.form-horizontal .validation {right:4.5em; top:.8em;}
